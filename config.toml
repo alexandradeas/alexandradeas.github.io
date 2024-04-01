@@ -1,0 +1,5 @@
+baseURL = 'http://alexandradeas.co.uk'
+languageCode = 'en-gb'
+title = 'Alexandra Deas'
+theme = 'hugo-flex'
+
